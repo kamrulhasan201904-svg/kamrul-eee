@@ -1,0 +1,1 @@
+Open index.html in a modern browser. Updated with corrected certificate dates, third certificate, new skills, phone number, Govt. K.M.H College, and hobbies.
